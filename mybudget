@@ -1,9 +1,11 @@
-#!/bin/bas
+#!/bin/bash
 
 echo "enter your Monthly Expences"
 
-read -p Rent 
-read -p Utilities
-read -p Gas
-read -p Food
-read -p others 
+read -p "Rent" Rent
+read -p "Utilities" Utilities
+read -p "Gas" Gas
+read -p "Food" Food
+read -p "Others" Others
+
+ 
