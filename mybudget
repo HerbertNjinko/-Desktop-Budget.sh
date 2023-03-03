@@ -1,0 +1,9 @@
+#!/bin/bas
+
+echo "enter your Monthly Expences"
+
+read -p Rent 
+read -p Utilities
+read -p Gas
+read -p Food
+read -p others 
