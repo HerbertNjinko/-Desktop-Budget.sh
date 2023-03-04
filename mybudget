@@ -10,6 +10,4 @@ read -p "Others" Others
 
 echo -e "(\nRent= $Rent,Utilities=$Utilities,Gas=$Gas,Food=$Food,Others=$Others)"
 
-
-
- 
+if [ 
